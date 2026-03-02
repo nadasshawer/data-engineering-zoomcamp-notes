@@ -17,4 +17,5 @@ I’m sharing everything as I go, including:
 ## 🎯 The Mission
 The goal is to Build in Public while helping others learn from my experience. By sharing my notes and code, I’m documenting the process of mastering critical data and tech tools like Docker and Terraform, and the rest of the modern data stack to create portable, production-ready environments and build scalable data pipelines.
 
-A huge thank you to the DataTalksClub organizers for providing such an incredible learning experience. Access to this level of training for free is a game-changer for the community. I hope these resources and notes prove beneficial to anyone else on the same journey!
+## 🙌 Acknowledgments
+A huge thank you to Alexey Grigorev and the DataTalksClub organizers for providing such an incredible learning experience. Access to this level of training for free is a game-changer for the community. I hope these resources and notes prove beneficial to anyone else on the same journey!
